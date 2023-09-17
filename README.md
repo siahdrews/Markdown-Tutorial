@@ -6,7 +6,7 @@
 ~~Strike~~
 >Block quote
 
-[link name](link.com)
+[link name](https://github.com/siahdrews/Markdown-Tutorial)
 
 1. list item
 2. List item
